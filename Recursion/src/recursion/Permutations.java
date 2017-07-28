@@ -23,7 +23,7 @@ public class Permutations
 	public static void main(String[] args) 
 	{
 		int i = 0;
-	    int n = 4;
+	    int n = 3;
 	    String alphabet = "abcdefghijklmnopqrstuvwxyz";
 	    perm(alphabet.substring(i, n + i));
 	}
